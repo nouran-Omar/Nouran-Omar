@@ -34,6 +34,27 @@
 </p>
 
 ---
+---
+
+## **🌟 Featured Projects**
+
+### **🔐 Modern Login Form**
+<p align="center">
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/siginin.png" width="45%" alt="Login Page" />
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/siginup.png" width="45%" alt="SignUp Page" />
+</p>
+
+- **Description:**  
+  A modern login & sign-up form with smooth toggle animation, built using **HTML, CSS, and JavaScript**.
+
+- **Tech Used:**  
+  HTML, CSS, JavaScript, FontAwesome.
+
+- **Live Demo:**  
+  👉 [**View Project Here**](https://nouran-omar.github.io/Login/)
+
+- **Repository:**  
+  [**Login Repo**](https://github.com/nouran-Omar/Login)
 
 ## **📊 GitHub Stats**
 <p align="center">
