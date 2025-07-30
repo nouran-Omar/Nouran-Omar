@@ -58,7 +58,7 @@ Currently, I’m training as a **Full-Stack .NET Web Developer** at the **Digita
 ---
 
 ## **📫 Contact Me**
-- **Email:** [nooromr068@gmail.com](mailto:nooromr068@gmail.com)  
+- **Email:** [nooromr068@gmail.com](mailto:nouranomarhammmad@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/nouranomar](https://www.linkedin.com/in/nouranomar)  
 
 ---
