@@ -1,65 +1,62 @@
 <!-- HEADER -->
 <h1 align="center">Hi there 👋, I'm Nouran Omar</h1>
 <h3 align="center">💻 Software Engineer | Web Developer | Full-Stack .NET Trainee</h3>
+
+---
+
+<!-- ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Full+Stack+.NET+Developer;Java+%7C+SQL+%7C+API+Builder;Love+for+Clean+%26+Scalable+Code" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-### ✨ **About Me**
-- 🎓 I'm a **4th-year Computer Science student** at the Faculty of Computers and Information.
-- 🌱 **Currently Training:** Full-Stack .NET Web Development (DEPI).
-- 💡 Passionate about **building real-world web apps**, solving coding challenges, and crafting beautiful UIs.
-- ⚡ **Fun Fact:** I love making my code clean and my designs stunning.
+## **✨ About Me**
+- 🎓 **4th-year Computer Science student** at the Faculty of Computers and Information.
+- 🌱 Currently training as a **Full-Stack .NET Web Developer (DEPI)**.
+- 💡 Passionate about **building real-world web apps** & **modern UI design**.
+- ⚡ I believe in **"Clean Code + Strong UI = Perfect Software."**
 
 ---
 
-<!-- TECH STACK -->
-### 🚀 **Tech Stack**
-
+## **🚀 Tech Stack**
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
----
-
-<!-- STATS -->
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=radical&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" />
 </p>
 
 ---
 
-<!-- CONNECT -->
-### 📫 **Contact Me**
+## **📊 GitHub Stats**
 <p align="center">
-  <a href="mailto:nouranomarhammmad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nouranomar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
 
-<!-- FOOTER -->
+## **🌐 Connect with Me**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nouran-Omar&color=blue&style=flat-square&label=Profile+Views" />
+  <a href="mailto:nouranomarhammmad@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nouranomar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nouran-Omar&color=blue&style=for-the-badge&label=Profile+Views" />
+</p>
+
 
