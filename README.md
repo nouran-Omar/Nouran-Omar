@@ -35,6 +35,35 @@
 
 ---
 
+## **🌟 Featured Projects**
+
+### **1. Library Management System (Java Desktop App)**  
+<a href="https://github.com/nouran-Omar/Library-Management-System">
+  <img src="https://img.shields.io/badge/Java%20Swing%20App-FF5733?style=for-the-badge&logo=java&logoColor=white" />
+</a>  
+- **Description:** A desktop-based Library Management System with login, book lending, and fine calculation.
+- **Tech:** Java Swing, JDBC, SQL Server.
+
+---
+
+### **2. CPU Scheduling Algorithms Simulator**
+<a href="https://github.com/nouran-Omar/CPU-Scheduling-Simulator">
+  <img src="https://img.shields.io/badge/OS%20Project-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</a>  
+- **Description:** Simulator for **FIFO, SJF, Priority, and Round Robin** scheduling.
+- **Tech:** Java, OOP.
+
+---
+
+### **3. Responsive E-Commerce Website**
+<a href="https://nouran-omar.github.io/E-commerce-Website/">
+  <img src="https://img.shields.io/badge/Live%20Demo-28A745?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>  
+- **Description:** A modern, responsive front-end e-commerce website.
+- **Tech:** HTML, CSS, Bootstrap, JavaScript.
+
+---
+
 ## **📊 GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
