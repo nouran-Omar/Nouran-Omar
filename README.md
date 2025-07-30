@@ -35,26 +35,41 @@
 
 ---
 ---
-
 ## **🌟 Featured Projects**
 
-### **🔐 Modern Login Form**
+### **1️⃣ 🔐 Modern Login Form**
 <p align="center">
   <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/siginin.png" width="45%" alt="Login Page" />
   <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/siginup.png" width="45%" alt="SignUp Page" />
 </p>
 
-- **Description:**  
-  A modern login & sign-up form with smooth toggle animation, built using **HTML, CSS, and JavaScript**.
+**Description:**  
+A stylish login & sign-up form with **smooth toggle animations**, built for modern UI lovers.  
+**Tech Stack:** HTML, CSS, JavaScript, FontAwesome.  
 
-- **Tech Used:**  
-  HTML, CSS, JavaScript, FontAwesome.
+**🔗 Live Demo:** [**View Project**](https://nouran-omar.github.io/Login/)  
+**📂 Repo:** [**Login Repository**](https://github.com/nouran-Omar/Login)
 
-- **Live Demo:**  
-  👉 [**View Project Here**](https://nouran-omar.github.io/Login/)
+---
 
-- **Repository:**  
-  [**Login Repo**](https://github.com/nouran-Omar/Login)
+### **2️⃣ 🌍 World Explorer Website**
+<p align="center">
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/Home.png" width="30%" alt="Home Page" />
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/about.png" width="30%" alt="About Section" />
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/destnation.png" width="30%" alt="Destinations" />
+</p>
+<p align="center">
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/glary.png" width="45%" alt="Gallery Section" />
+  <img src="https://github.com/nouran-Omar/Nouran-Omar/blob/main/images/cunact.png" width="45%" alt="Contact Page" />
+</p>
+
+**Description:**  
+A **responsive travel website** highlighting stunning destinations, vibrant galleries, and smooth navigation with a clean, modern design.  
+**Tech Stack:** HTML, CSS, Bootstrap 5, FontAwesome.  
+
+**🔗 Live Demo:** [**View Project**](https://nouran-omar.github.io/World-Explorer/)  
+**📂 Repo:** [**World Explorer Repository**](https://github.com/nouran-Omar/World-Explorer)
+
 
 ## **📊 GitHub Stats**
 <p align="center">
