@@ -31,14 +31,14 @@
 
 ### **1️⃣ 🧮 Arabic Math Editor (Latest Work)**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Project+Screenshot+Here" width="90%" alt="Math Editor" />
+  <img src="https://via.placeholder.com/800x400?text=Arabic+Math+Editor+Preview" width="90%" alt="Math Editor" />
 </p>
 
 **Description:** A complex rich-text editor for writing mathematical equations in Arabic. Features generic rendering, fraction handling, and custom UI components using **Slate.js**.  
 **Tech Stack:** React, TypeScript, Tailwind CSS, Slate.js.
 
-**🔗 Live Demo:** [**View Demo**](#)  
-**📂 Repo:** [**View Code**](#)
+**🔗 Live Demo:** [**View Demo**](https://arabic-math-editor.vercel.app/)  
+**📂 Repo:** [**View Code**](https://github.com/nouran-Omar/Arabic-mathematical-editor)
 
 ---
 
@@ -71,11 +71,11 @@
 ## **🌐 Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/nouranomar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:nouranomarhammmad@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
 
