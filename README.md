@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nouran Omar</h1>
 <h3 align="center">🚀 Frontend Developer  | React & TypeScript Enthusiast</h3>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Building+Modern+Web+Apps;React+%7C+TypeScript+%7C+Tailwind;Crafting+Pixel-Perfect+UI;Always+Learning+New+Tech" alt="Typing SVG" />
