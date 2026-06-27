@@ -82,7 +82,7 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
       <a href="#">Command</a>, 
       <a href="#">Decorator</a>, 
       <a href="#">Factory</a>, 
-      <a href="#">Observer</a>
+      <a href="https://github.com/nouran-Omar/Observer-Pattern">Observer</a>
     </td>
   </tr>
 </table>
