@@ -78,10 +78,10 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
     <td>A collection of repositories demonstrating the practical implementation of fundamental software design patterns to solve common problems in software design.</td>
     <td align="right"><code>Java</code> <code>OOP</code> <code>Design Patterns</code><br>
       <a href="https://github.com/nouran-Omar/Adapter-Pattern">Adapter</a>,
-      <a href="#">Builder</a>,
+      <a href="https://github.com/nouran-Omar/BuilderPattern">Builder</a>,
       <a href="https://github.com/nouran-Omar/Command-Design-Pattern">Command</a>,
       <a href="https://github.com/nouran-Omar/Decorator-Design-Pattern">Decorator</a>, 
-      <a href="#">Factory</a>, 
+      <a href="https://github.com/nouran-Omar/FactoryPatternEnemy">Factory</a>, 
       <a href="https://github.com/nouran-Omar/Observer-Pattern">Observer</a>
     </td>
   </tr>
@@ -102,6 +102,10 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
     <tr>
     <td><strong>TaskMaster - Project Management UI</strong><br>A sleek, Kanban-style task management board built with Vanilla JavaScript and Tailwind CSS, featuring native drag-and-drop to demonstrate core web development skills.</td>
     <td align="right"><code>JavaScript</code> <code>Tailwind CSS</code> <code>HTML5</code><br><a href="https://github.com/nouran-Omar/TaskMaster"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>Employee Management System</strong><br>A console-based CRUD application in Java to manage employee records, demonstrating core OOP principles and data handling.</td>
+    <td align="right"><code>Java</code> <code>OOP</code><br><a href="https://github.com/nouran-Omar/EmployeeManagement-Java"><strong>View Code &raquo;</strong></a></td>
   </tr>
 </table>
 </details>
