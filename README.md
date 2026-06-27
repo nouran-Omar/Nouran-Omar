@@ -57,6 +57,10 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
     <td align="right"><code>React</code> <code>TypeScript</code> <code>Tailwind</code><br><a href="https://github.com/nouran-Omar/Medix-Pharmacy"><strong>View Code &raquo;</strong></a></td>
   </tr>
   <tr>
+    <td><strong>Mabeet - Property Booking Platform</strong><br>A comprehensive property booking platform built with vanilla JavaScript. Features role-based dashboards for property owners, advanced filtering for users (hotels, apartments, student housing), and dynamic rendering of properties from a backend API.</td>
+    <td align="right"><code>JavaScript</code> <code>Bootstrap</code> <code>HTML5</code> <code>CSS3</code><br><a href="https://github.com/nouran-Omar/mabeet"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
     <td><strong>Arabic Math Editor</strong><br>A complex rich-text editor for writing mathematical equations in Arabic. Features generic rendering, fraction handling, and custom UI components built from the ground up.</td>
     <td align="right"><code>React</code> <code>TypeScript</code> <code>Slate.js</code> <code>Tailwind</code><br><a href="https://github.com/nouran-Omar/Arabic-mathematical-editor"><strong>View Code &raquo;</strong></a> <a href="https://arabic-math-editor.vercel.app/"><strong>Live Demo &raquo;</strong></a></td>
   </tr>
