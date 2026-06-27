@@ -77,10 +77,10 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
   <tr>
     <td>A collection of repositories demonstrating the practical implementation of fundamental software design patterns to solve common problems in software design.</td>
     <td align="right"><code>Java</code> <code>OOP</code> <code>Design Patterns</code><br>
-      <a href="https://github.com/nouran-Omar/Adapter-Pattern">Adapter</a>, 
-      <a href="#">Builder</a>, 
-      <a href="#">Command</a>, 
-      <a href="#">Decorator</a>, 
+      <a href="https://github.com/nouran-Omar/Adapter-Pattern">Adapter</a>,
+      <a href="#">Builder</a>,
+      <a href="https://github.com/nouran-Omar/Command-Design-Pattern">Command</a>,
+      <a href="https://github.com/nouran-Omar/Decorator-Design-Pattern">Decorator</a>, 
       <a href="#">Factory</a>, 
       <a href="https://github.com/nouran-Omar/Observer-Pattern">Observer</a>
     </td>
@@ -100,8 +100,8 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
     <td align="right"><code>HTML5</code> <code>CSS3</code> <code>Bootstrap 5</code><br><a href="https://github.com/nouran-Omar/World-Explorer"><strong>View Code &raquo;</strong></a> <a href="https://nouran-omar.github.io/World-Explorer/"><strong>Live Demo &raquo;</strong></a></td>
   </tr>
     <tr>
-    <td><strong>TaskMaster - Project Management UI</strong><br>A sleek, Kanban-style task management interface with drag-and-drop functionality, designed to practice complex state management and UI interactions in React.</td>
-    <td align="right"><code>React</code> <code>TypeScript</code> <code>Tailwind</code><br><em>Private Repo</em></td>
+    <td><strong>TaskMaster - Project Management UI</strong><br>A sleek, Kanban-style task management board built with Vanilla JavaScript and Tailwind CSS, featuring native drag-and-drop to demonstrate core web development skills.</td>
+    <td align="right"><code>JavaScript</code> <code>Tailwind CSS</code> <code>HTML5</code><br><a href="https://github.com/nouran-Omar/TaskMaster"><strong>View Code &raquo;</strong></a></td>
   </tr>
 </table>
 </details>
