@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Eng. Nouran Omar Mahdy 👋</h1>
-  <h3 align="center">A passionate Software Engineer specializing in Frontend & .NET Development</h3>
+  <h3 align="center">A passionate Software Engineer specializing in Frontend </h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3399FF&center=true&width=460&lines=Building+High-Fidelity+UIs;Clean+Code+%26+Solid+Architecture;React+%7C+TypeScript+%7C+.NET" alt="Typing SVG" />
 </div>
 
@@ -27,7 +27,7 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
 <p align="center">
   <strong><samp>Backend & Databases</samp></strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,postgresql,sqlite" alt="Backend Skills"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" alt="Backend Skills"/>
   </a>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge&logo=opslevel&logoColor=white" alt="OOP"/>
@@ -35,7 +35,7 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
 <p align="center">
   <strong><samp>Tools & DevOps</samp></strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
   </a>
   <img src="https://img.shields.io/badge/Cursor-4D4D4D?style=for-the-badge" alt="Cursor IDE"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
@@ -130,10 +130,6 @@ I'm a Software Engineer, graduating in 2026 from the Faculty of Computers and In
   <br><br>
   <a href="https://www.linkedin.com/in/nouranomar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.upwork.com/freelancers/~01a2b3c4d5e6f7" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
   &nbsp;
   <a href="mailto:nouranomarhammmad@gmail.com" target="_blank">
