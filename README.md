@@ -121,7 +121,7 @@ I am a Software Engineer, graduated in 2026 from the Faculty of Computers and In
 ### **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="Nouran's GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
