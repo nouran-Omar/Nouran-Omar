@@ -30,6 +30,7 @@ I am a Software Engineer, graduated in 2026 from the Faculty of Computers and In
   <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
   <img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/NLP_/_NLTK-4B8BBE?style=for-the-badge" alt="NLP"/>
 </p>
@@ -58,6 +59,10 @@ I am a Software Engineer, graduated in 2026 from the Faculty of Computers and In
 <details>
 <summary><strong>Featured / Core Projects (AI & Enterprise Systems)</strong></summary>
 <table width="100%">
+  <tr>
+    <td><strong>Realtime Face Recognition System</strong><br>An end-to-end computer vision pipeline built with Python and OpenCV, featuring live camera integration, automated dataset collection, LBPH model training, and real-time recognition with confidence scoring.</td>
+    <td align="right"><code>Python</code> <code>OpenCV</code> <code>NumPy</code><br><a href="https://github.com/nouran-Omar/Realtime-Face-Recognition-OpenCV"><strong>View Code &raquo;</strong></a></td>
+  </tr>
   <tr>
     <td><strong>PulseX - AI Cardiovascular Health Platform (A+)</strong><br>An enterprise-grade, AI-powered health monitoring ecosystem featuring role-based dashboards (Admin, Doctor, Patient), real-time data visualization, predictive risk analysis, and comprehensive clinical workflows.</td>
     <td align="right"><code>React</code> <code>TypeScript</code> <code>.NET Core</code> <code>Tailwind</code><br><a href="https://github.com/nouran-Omar/tryingv2"><strong>View Code &raquo;</strong></a></td>
@@ -121,7 +126,6 @@ I am a Software Engineer, graduated in 2026 from the Faculty of Computers and In
 ### **GitHub Statistics**
 
 <div align="center">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
