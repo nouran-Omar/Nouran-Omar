@@ -1,151 +1,152 @@
-<div align="center">
-
-# Eng. Nouran Omar Mahdy
-
-### Software Engineer · Frontend & AI Systems Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3399FF&center=true&width=600&lines=Building+Thoughtful+Web+Experiences;React+%7C+TypeScript+%7C+Python;Turning+AI+Workflows+into+Useful+Products" alt="Building thoughtful web experiences with React, TypeScript, and AI" />
-
-[LinkedIn](https://www.linkedin.com/in/nouranomar) · [Email](mailto:nouranomarhammmad@gmail.com) · [Portfolio Projects](#featured-projects)
-
+div align="center">
+  <h1 align="center">Eng. Nouran Omar Mahdy</h1>
+  <h3 align="center">Software Engineer | Frontend & AI Systems Developer Specialist </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3399FF&center=true&width=500&lines=Building+High-Fidelity+UIs;Clean+Code+and+Solid+Architecture;React+%7C+TypeScript+%7C+AI+Integration" alt="Typing SVG" />
 </div>
 
 ---
 
-## About Me
+### **About Me**
 
-I am a Software Engineer who builds responsive web applications and AI-powered products. I graduated in 2026 from the Faculty of Computers and Information Technology at the Egyptian E-Learning University (EELU), earning a **3.67 GPA with honors**. My work brings together frontend engineering, backend systems, computer vision, and practical product design.
+I am a Software Engineer, graduated in 2026 from the Faculty of Computers and Information Technology, Egyptian E-Learning University (EELU), with a Cumulative GPA of 3.67 and distinction with honors. My core expertise lies in crafting robust, scalable web applications, bridging modern frontend engineering with intelligent backend architectures and Artificial Intelligence systems.
 
-- **Education:** B.Sc. in Computers and Information Technology, EELU — 3.67 GPA, with honors.
-- **Capstone:** Built **PulseX**, an AI-powered cardiovascular health monitoring and risk-assessment platform, awarded **A+**.
-- **Training:** Full-Stack .NET Development through DEPI, plus advanced Artificial Intelligence and Machine Learning training.
-- **Focus:** Clear user experiences, maintainable architecture, and useful applications of AI.
-
-## Technical Skills
-
-<div align="center">
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**AI, Data & Backend**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+- **Academic Excellence:** Graduated with a 3.67 GPA, demonstrating a strong foundation in computer science principles, data structures, algorithms, and software architecture.
+- **Key Capstone Achievement:** Developed **PulseX**, an advanced AI-powered cardiovascular health monitoring and risk assessment platform, earning an **A+** grade for technical depth, system design, and real-world utility.
+- **Professional Training:** Completed intensive technical programs in Full-Stack .NET Development (DEPI) and advanced Artificial Intelligence & Machine Learning tracks, strengthening enterprise development capabilities.
+- **Core Philosophy:** Dedicated to translating complex business requirements and AI workflows into clean, intuitive, high-performance user interfaces.
 
 ---
 
-## Featured Projects
+### **Technical Stack**
 
-### SkinAI — Bilingual Skin Lesion Pre-Screening
+<p align="center">
+  <strong><samp>Frontend Engineering</samp></strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,bootstrap,html,css,vite" alt="Frontend Skills"/>
+  </a>
+</p>
+<p align="center">
+  <strong><samp>Artificial Intelligence & Data</samp></strong><br>
+  <img src="https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/NLP_/_NLTK-4B8BBE?style=for-the-badge" alt="NLP"/>
+</p>
+<p align="center">
+  <strong><samp>Backend & Databases</samp></strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java" alt="Backend Skills"/>
+  </a>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+</p>
+<p align="center">
+  <strong><samp>Tools & DevOps</samp></strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
+  </a>
+  <img src="https://img.shields.io/badge/Cursor-4D4D4D?style=for-the-badge" alt="Cursor IDE"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
-**SkinAI** is an educational full-stack project that combines a skin-lesion photo with questionnaire context. It returns model-ranked possibilities, image-quality notes, an urgency guide, and a PDF summary intended to support a conversation with a qualified clinician.
+---
 
-<div align="center">
-
-[**Open the Web App**](https://skin-ai-psi-two.vercel.app/) · [**View Source Code**](https://github.com/nouran-Omar/skin-ai) · [**Backend Space**](https://huggingface.co/spaces/nouranomar/skin-ai-backend) · [Project & Setup Guide](https://github.com/nouran-Omar/skin-ai/blob/main/PROJECT_GUIDE.md)
-
-</div>
-
-**Highlights**
-
-- English and Arabic interface with right-to-left layout and Cairo typography.
-- Dedicated screening flow with a branching questionnaire, image upload, and clear progress steps.
-- PyTorch image classification with Grad-CAM visualization and image-quality checks.
-- Context-adjusted model scores, educational urgency guidance, and downloadable PDF reports.
-- Optional account history and skin-progress notes; uploaded photos are not included in saved summaries.
-- Bilingual, source-linked skincare assistant with optional, visitor-approved Hugging Face text generation.
-- FastAPI endpoints for analysis, questionnaire, authentication, assistant, progress tracking, and reports.
-
-**Technology:** React, TypeScript, Vite, Tailwind CSS, Python, FastAPI, PyTorch, OpenCV, SQLite, ReportLab, Hugging Face Spaces, and Vercel.
-
-**Architecture:** Vercel serves the frontend and proxies `/api/*` to a FastAPI service hosted in a Gradio Hugging Face Space. The model uses seven dermoscopic lesion classes from the checkpoint; acne is handled separately through general educational content.
-
-> **Important limitation:** SkinAI is experimental educational software, not a diagnostic tool or medical device. Its model and questionnaire rules have not been clinically validated. Model scores are not disease probabilities, and the tool must not replace or delay professional care. See the [full project guide](https://github.com/nouran-Omar/skin-ai/blob/main/PROJECT_GUIDE.md) for data, privacy, and model limitations.
-
-### PulseX — AI Cardiovascular Health Platform
-
-An AI-powered health-monitoring and risk-assessment capstone with dashboards for administrators, doctors, and patients, data visualizations, and clinical workflows. **Awarded A+.**
-
-**Technology:** React, TypeScript, .NET Core, and Tailwind CSS · [View source](https://github.com/nouran-Omar/tryingv2)
-
-### Realtime Face Recognition System
-
-An end-to-end computer-vision application with camera input, dataset collection, LBPH model training, and real-time recognition with confidence scores.
-
-**Technology:** Python, OpenCV, and NumPy · [View source](https://github.com/nouran-Omar/Realtime-Face-Recognition-OpenCV)
-
-### Medix — Pharmacy Management System
-
-A pharmacy management interface for inventory tracking, low-stock alerts, order workflows, and role-based access.
-
-**Technology:** React, TypeScript, Tailwind CSS, and Framer Motion · [View source](https://github.com/nouran-Omar/Medix-Pharmacy)
-
-### Arabic Math Editor
-
-A rich-text editor for writing and rendering mathematical expressions in Arabic with right-to-left layout and custom syntax handling.
-
-**Technology:** React, TypeScript, Slate.js, and Tailwind CSS · [View source](https://github.com/nouran-Omar/Arabic-mathematical-editor) · [Live demo](https://arabic-math-editor.vercel.app/)
-
-### Mabeet — Property Booking Platform
-
-A property-booking portal with API integration, property-manager dashboards, and multi-parameter search and filtering.
-
-**Technology:** JavaScript, Bootstrap, HTML, and CSS · [View source](https://github.com/nouran-Omar/mabeet)
-
-### Sentiment Analysis Engine
-
-A Python NLP project that classifies text sentiment as positive, negative, or neutral using traditional machine-learning techniques.
-
-**Technology:** Python, Jupyter, and NLTK · [View source](https://github.com/nouran-Omar/determine-the-sentiment-positive-or-negative-or-natural)
+### **Portfolio & Projects**
 
 <details>
-<summary><strong>More Projects</strong></summary>
-
-| Project | Description | Links |
-|---|---|---|
-| **LUXE — Fashion E-commerce UI** | Responsive storefront interface focused on visual design, mobile layouts, and interaction details. | Private repository |
-| **World Explorer** | Responsive travel portal featuring destinations and reusable page components. | [Source](https://github.com/nouran-Omar/World-Explorer) · [Demo](https://nouran-omar.github.io/World-Explorer/) |
-| **TaskMaster — Kanban UI** | Task-management interface with native drag-and-drop interactions. | [Source](https://github.com/nouran-Omar/TaskMaster) |
-| **Design Patterns** | Java examples of common object-oriented design patterns. | [Adapter](https://github.com/nouran-Omar/Adapter-Pattern) · [Builder](https://github.com/nouran-Omar/BuilderPattern) · [Command](https://github.com/nouran-Omar/Command-Design-Pattern) · [Decorator](https://github.com/nouran-Omar/Decorator-Design-Pattern) · [Factory](https://github.com/nouran-Omar/FactoryPatternEnemy) · [Observer](https://github.com/nouran-Omar/Observer-Pattern) |
-
+<summary><strong>Featured / Core Projects (AI & Enterprise Systems)</strong></summary>
+<table width="100%">
+  <tr>
+    <td><strong>Realtime Face Recognition System</strong><br>An end-to-end computer vision pipeline built with Python and OpenCV, featuring live camera integration, automated dataset collection, LBPH model training, and real-time recognition with confidence scoring.</td>
+    <td align="right"><code>Python</code> <code>OpenCV</code> <code>NumPy</code><br><a href="https://github.com/nouran-Omar/Realtime-Face-Recognition-OpenCV"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>PulseX - AI Cardiovascular Health Platform (A+)</strong><br>An enterprise-grade, AI-powered health monitoring ecosystem featuring role-based dashboards (Admin, Doctor, Patient), real-time data visualization, predictive risk analysis, and comprehensive clinical workflows.</td>
+    <td align="right"><code>React</code> <code>TypeScript</code> <code>.NET Core</code> <code>Tailwind</code><br><a href="https://github.com/nouran-Omar/tryingv2"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>Medix - Pharmacy Management System</strong><br>An enterprise-level pharmacy management landing page and dashboard designed for real-time inventory tracking, low stock alerts, order lifecycle management, and strict role-based access control.</td>
+    <td align="right"><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code><br><a href="https://github.com/nouran-Omar/Medix-Pharmacy"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>Arabic Math Editor</strong><br>A specialized rich-text editor engineered for writing and rendering complex mathematical equations in Arabic with full right-to-left (RTL) layout support and custom syntax parsing.</td>
+    <td align="right"><code>React</code> <code>TypeScript</code> <code>Slate.js</code> <code>Tailwind</code><br><a href="https://github.com/nouran-Omar/Arabic-mathematical-editor"><strong>View Code &raquo;</strong></a> <a href="https://arabic-math-editor.vercel.app/"><strong>Live Demo &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>Mabeet - Property Booking Platform</strong><br>A full-featured accommodation booking portal featuring dynamic API integration, role-based dashboards for property managers, and advanced multi-parameter filtering for users.</td>
+    <td align="right"><code>JavaScript</code> <code>Bootstrap</code> <code>HTML5</code> <code>CSS3</code><br><a href="https://github.com/nouran-Omar/mabeet"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>Sentiment Analysis Engine</strong><br>A Python-based natural language processing tool designed to evaluate and categorize text sentiment into positive, negative, or neutral classifications utilizing classic machine learning and NLTK pipelines.</td>
+    <td align="right"><code>Python</code> <code>Jupyter</code> <code>NLTK</code><br><a href="https://github.com/nouran-Omar/determine-the-sentiment-positive-or-negative-or-natural"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+</table>
 </details>
 
-## SkinAI — Run Locally
+<details>
+<summary><strong>Software Architecture & Design Patterns</strong></summary>
+<table width="100%">
+  <tr>
+    <td>A structured collection of repositories demonstrating the clean implementation of industry-standard design patterns to solve architectural challenges in enterprise software development.</td>
+    <td align="right"><code>Java</code> <code>OOP</code> <code>Design Patterns</code><br>
+      <a href="https://github.com/nouran-Omar/Adapter-Pattern">Adapter</a> | 
+      <a href="https://github.com/nouran-Omar/BuilderPattern">Builder</a> | 
+      <a href="https://github.com/nouran-Omar/Command-Design-Pattern">Command</a> | 
+      <a href="https://github.com/nouran-Omar/Decorator-Design-Pattern">Decorator</a> | 
+      <a href="https://github.com/nouran-Omar/FactoryPatternEnemy">Factory</a> | 
+      <a href="https://github.com/nouran-Omar/Observer-Pattern">Observer</a>
+    </td>
+  </tr>
+</table>
+</details>
 
-```bash
-# Install frontend dependencies
-npm --prefix frontend ci
+<details>
+<summary><strong>Additional Web & Utility Applications</strong></summary>
+<table width="100%">
+  <tr>
+    <td><strong>LUXE - Responsive Fashion E-commerce Platform</strong><br>A modern, high-fidelity front-end e-commerce interface designed with meticulous attention to UI/UX, fluid responsiveness, and smooth micro-interactions.</td>
+    <td align="right"><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code><br><em>Private Repo</em></td>
+  </tr>
+  <tr>
+    <td><strong>World Explorer Travel Portal</strong><br>A fully responsive, content-rich travel application showcasing international destinations with optimized asset loading and clean component architecture.</td>
+    <td align="right"><code>HTML5</code> <code>CSS3</code> <code>Bootstrap 5</code><br><a href="https://github.com/nouran-Omar/World-Explorer"><strong>View Code &raquo;</strong></a> <a href="https://nouran-omar.github.io/World-Explorer/"><strong>Live Demo &raquo;</strong></a></td>
+  </tr>
+  <tr>
+    <td><strong>TaskMaster - Kanban Project Management UI</strong><br>An interactive task management dashboard featuring native drag-and-drop state manipulation and clean modular JavaScript architecture.</td>
+    <td align="right"><code>JavaScript</code> <code>Tailwind CSS</code> <code>HTML5</code><br><a href="https://github.com/nouran-Omar/TaskMaster"><strong>View Code &raquo;</strong></a></td>
+  </tr>
+</table>
+</details>
 
-# Terminal 1: start FastAPI from the repository root
-python -m uvicorn backend.app.main:app --reload --port 8000
+---
 
-# Terminal 2: start Vite
-npm --prefix frontend run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173). The local Vite server proxies API requests to `http://127.0.0.1:8000`. See the [SkinAI Project Guide](https://github.com/nouran-Omar/skin-ai/blob/main/PROJECT_GUIDE.md) for environment setup, API routes, model training, and deployment details.
-
-## GitHub Activity
+### **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Most used programming languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nouran-Omar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Contact
+---
 
-I am open to opportunities in software engineering, frontend development, and AI-focused product development.
+### **Let's Connect**
 
-<div align="center">
+<p align="center">
+  I am actively seeking full-time opportunities in Software Engineering and Frontend/AI Development where I can contribute to high-impact engineering teams.
+  <br><br>
+  <a href="https://www.linkedin.com/in/nouranomar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nouranomarhammmad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nouranomar)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nouranomarhammmad@gmail.com)
-
-![Profile views](https://komarev.com/ghpvc/?username=nouran-Omar&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nouran-Omar&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
