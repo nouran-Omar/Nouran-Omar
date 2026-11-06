@@ -237,15 +237,22 @@ SkinAI is an end-to-end computer-vision and product-design project that explores
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="34" align="center"/> GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=34d399&ring_color=10b981" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-<p align="center">
+<div align="center">
+  <!-- Badges: بتشتغل على طول من shields.io ومش محتاجة أي إعداد -->
+  <a href="https://github.com/nouran-Omar?tab=followers"><img src="https://img.shields.io/github/followers/nouran-Omar?style=for-the-badge&logo=github&logoColor=white&color=10B981&labelColor=0d1117" alt="Followers"/></a>
+  <a href="https://github.com/nouran-Omar/skin-ai"><img src="https://img.shields.io/github/stars/nouran-Omar/skin-ai?style=for-the-badge&logo=github&logoColor=white&color=059669&labelColor=0d1117" alt="SkinAI Stars"/></a>
+  <a href="https://github.com/nouran-Omar/skin-ai/commits"><img src="https://img.shields.io/github/last-commit/nouran-Omar/skin-ai?style=for-the-badge&logo=git&logoColor=white&color=064E3B&labelColor=0d1117" alt="Last Commit"/></a>
+  <br/><br/>
+
+  <!-- Badges إضافية من shields.io: بتلف تلقائياً على الموبايل (responsive) ومش بتعتمد على أي Action -->
+  <a href="https://github.com/nouran-Omar/skin-ai"><img src="https://img.shields.io/github/languages/top/nouran-Omar/skin-ai?style=flat-square&label=SkinAI&color=10B981&labelColor=0d1117" alt="SkinAI top language"/></a>
+  <a href="https://github.com/nouran-Omar/tryingv2"><img src="https://img.shields.io/github/languages/top/nouran-Omar/tryingv2?style=flat-square&label=PulseX&color=059669&labelColor=0d1117" alt="PulseX top language"/></a>
+  <a href="https://github.com/nouran-Omar/skin-ai/commits"><img src="https://img.shields.io/github/commit-activity/y/nouran-Omar/skin-ai?style=flat-square&label=SkinAI%20commits%20%2F%20year&color=064E3B&labelColor=0d1117" alt="SkinAI commit activity"/></a>
+  <a href="https://github.com/nouran-Omar/skin-ai"><img src="https://img.shields.io/github/repo-size/nouran-Omar/skin-ai?style=flat-square&label=SkinAI%20size&color=34D399&labelColor=0d1117" alt="SkinAI repo size"/></a>
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com/?user=nouran-Omar&hide_border=true&background=0d1117&ring=10b981&fire=34d399&currStreakLabel=10b981&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</p>
+</div>
 <br/>
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
