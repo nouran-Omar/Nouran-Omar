@@ -21,6 +21,7 @@
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="34" align="center"/> About Me
+
 I'm a Software Engineer who graduated in 2026 from the Faculty of Computers and Information Technology at the Egyptian E-Learning University (EELU) with a 3.67 cumulative GPA and distinction with honors. I build robust, scalable web applications that connect modern frontend engineering with intelligent backends and AI systems, and I care about turning complex requirements and ML workflows into interfaces that feel clear, fast, and trustworthy.
 
 <table width="100%">
@@ -84,7 +85,9 @@ Tools, Deployment & DevOps<br/>
 <a href="https://skin-ai-psi-two.vercel.app/">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:059669&height=90&section=header&text=SkinAI&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Bilingual%20skin-lesion%20pre-screening%20%E2%80%A2%20English%20%2F%20Arabic&descSize=15&descAlignY=78" alt="SkinAI" width="100%"/>
 </a>
-</div>SkinAI is an end-to-end computer-vision and product-design project that explores how AI can make skin-health information easier to approach. A user uploads a lesion image and answers a branching questionnaire; the system returns model-ranked possibilities, urgency guidance, image-quality caveats, and a Grad-CAM visualization, then generates a PDF summary to bring to a qualified clinician. The interface is fully bilingual with RTL support for Arabic.
+</div>
+
+SkinAI is an end-to-end computer-vision and product-design project that explores how AI can make skin-health information easier to approach. A user uploads a lesion image and answers a branching questionnaire; the system returns model-ranked possibilities, urgency guidance, image-quality caveats, and a Grad-CAM visualization, then generates a PDF summary to bring to a qualified clinician. The interface is fully bilingual with RTL support for Arabic.
 
 <table width="100%">
   <tr>
@@ -234,13 +237,15 @@ Tools, Deployment & DevOps<br/>
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="34" align="center"/> GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=34d399&ring_color=10b981&count_private=true" alt="GitHub Stats"/>
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nouran-Omar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9&icon_color=34d399&ring_color=10b981" alt="GitHub Stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouran-Omar&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages"/>
-  <br/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=nouran-Omar&hide_border=true&background=0d1117&ring=10b981&fire=34d399&currStreakLabel=10b981&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
+</p>
 <br/>
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
